@@ -1,6 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
 <?php
-
-echo "Type";
-
-
+echo "My first PHP script!";
 ?>
+
+</body>
+</html>
